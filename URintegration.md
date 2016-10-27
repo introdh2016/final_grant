@@ -1,3 +1,3 @@
-# Final Grant Ideas
+# Final Grant Idea
 
 Since I am currently in Dr. Maurantonio's Digital Memory and the Archive class, I have been frequenly thinking about race and its place in defining higher education. Focusing on the University of Richmond, I want to craft a project that analyzes the places from where students–mainly foreign students–came to the university after integeration in 1968. If possible, I want to track areas where students came from in order to analyze how students were recruited in regards to what areas. For a university that not many people know about where I'm from, where did they try to recruit students from/how successful were they post-integration at the university? How big on the agenda was increasing the number of students of color on campus? What years at the university showed the biggest incoming group of students of color? And, how did that number/year relate to space?
