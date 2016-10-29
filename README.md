@@ -20,6 +20,8 @@ Projects to explore:
 
 [Going to the Show](http://docsouth.unc.edu/gtts/)
 
+[Guantanamo Public Memory Project](http://gitmomemory.org/)
+
 [Gulag History](http://gulaghistory.org/)
 
 [Histories of the National Mall](http://mallhistory.org/)
@@ -40,6 +42,8 @@ Projects to explore:
 [September 11 Digital Archive](http://911digitalarchive.org/)
 
 [Signs at 40](http://signsat40.signsjournal.org/)
+
+[The Sonic Memorial Project](http://sonicmemorial.org/sonic/public/index.html)
 
 [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
 
