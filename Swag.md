@@ -15,3 +15,8 @@ Interestingly, I can't think of a DH sports project. If you go with sports, the 
 
 
  
+I asked friends for some recommendations of projects about sports. I don't think these are the most helpful, but here is what people shared with me: 
+
+http://imbiza.matrix.msu.edu/
+https://sportsandapartheidinsouthafricawebquest.wordpress.com/
+https://www.youtube.com/watch?v=BALms7P0U7E
