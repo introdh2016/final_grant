@@ -12,4 +12,6 @@ UVa Slavery Project : http://slavery.virginia.edu/
 
 List of Community Based to Archives about Race: https://blog.witness.org/2015/09/community-based-approaches-to-archives-from-the-black-lives-matter-movement/
 
+Black Studies and DH: https://www.hastac.org/blogs/crystal-eddins/2016/06/06/black-studies-and-digital-humanities-new-developments
+
 Happy to meet to discuss further!
