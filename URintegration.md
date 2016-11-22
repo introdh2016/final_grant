@@ -15,3 +15,6 @@ List of Community Based to Archives about Race: https://blog.witness.org/2015/09
 Black Studies and DH: https://www.hastac.org/blogs/crystal-eddins/2016/06/06/black-studies-and-digital-humanities-new-developments
 
 Happy to meet to discuss further!
+
+
+http://chicanapormiraza.org/
