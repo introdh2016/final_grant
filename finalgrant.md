@@ -15,7 +15,7 @@ Emeline Blevins – University of Richmond
 
 Annie Irvin – Beauregard-Keyes House
 
-Laurent Tilton – University of Richmond 
+Lauren Tilton – University of Richmond 
 
 Tulane Research Library
 
