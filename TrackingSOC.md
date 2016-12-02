@@ -1,5 +1,5 @@
 #Table of Contents
-1. [List of Participants](#list of participants)
+1. [List of Participants](#list-of-participants)
 2. Abstract
 3. Narrative
   1. Enhancing the Humanities
