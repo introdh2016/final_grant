@@ -39,6 +39,7 @@ The final goal is this project is not necessarily to document the influx of stud
 ###Environmental Scan
 
 ###Staff
+This project would be led by Bal Artis, who has previous engagement specifically with the Race and Racism at the University of Richmond Project since taking the Digital Memory and the Archive course. They will head the data collection and tidying with their previous work centered around documents pertaining to students of color at the university as well as their expertise in critical race studies. Dr. Nicole Maurantonio and Victoria Charles, as two of the projects pioneers and advisory board members, will offer oversight and a reference for corroboration when any new data is found before it is added to the deep map. Dr. Lauren Tilton brings her command of the digital humanities and experience as part of the Photogrammar project, which this project credits in its environmental scan, to the table. She is an integral asset in properly formulating the networks necessary to achieve the project aims along with all the formatting that is essential to ensuring ease of access and maneuvering through the project. The Office of Admissions is the projects reference for collecting and discussing artifacts detailing outreach efforts by the university.  
 
 
 #####<a name="weingart">1</a>: Weingart, Scott B. <i>Demystifying Networks</i>. http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/
