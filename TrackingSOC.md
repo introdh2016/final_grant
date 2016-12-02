@@ -14,4 +14,4 @@
 * Nicole Maurantonio – University of Richmond
 * Victoria Charles – University of Richmond
 * Lauren Tilton – University of Richmond
-* Admissions – University of Richmond
+* Office of Admissions – University of Richmond
