@@ -9,7 +9,7 @@
   4. Work Plan
   5. [Staff](#staff)
   6. [Final Product and Dissemination](#final-product-and-dissemination)
-  
+  
 ##List of Participants
 * Bal Artis – University of Richmond
 * Nicole Maurantonio – University of Richmond
