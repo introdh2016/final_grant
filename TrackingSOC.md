@@ -10,3 +10,8 @@
   6. Final Product and Dissemination
   
 #List of Participants
+Bal Artis – University of Richmond
+Nicole Maurantonio – University of Richmond
+Victoria Charles – University of Richmond
+Chelsea Duncan – University of Richmond
+Lauren Tilton
