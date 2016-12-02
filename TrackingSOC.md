@@ -5,8 +5,8 @@
 3. [Narrative](#narrative)
   1. [Enhancing the Humanities](#enhancing-the-humanities)
   2. [Environmental Scan](#environmental-scan)
-  3. History of the Project
-  4. Work Plan
+  3. [History of the Project](#history-of-the-project)
+  4. [Work Plan](#work-plan)
   5. [Staff](#staff)
   6. [Final Product and Dissemination](#final-product-and-dissemination)
   
@@ -37,6 +37,10 @@ However, central to these points in the mapping process is their relationship to
 The final goal is this project is not necessarily to document the influx of students of color to the University of Richmond in its entirety, nor does it foresee an end to its work. This project hopes to pioneer a deep map that can be endlessly expanded upon and analyzed. The bimodal network would also allow the project to track legacy students of color if any were discovered, which adds another level of discussion into the study of race at the university. The application of the project is not fixed, but, since it was inspired by the Race and Racism Project, its primary implementation would be along with the open-source archive that exists for the project, perhaps allowing for an easier way to navigate through the numerous documents as they apply to students of color. However, the projects larger goal is integration into the admissions website to put forth a narrative beyond the statistics when discussing diversity at the university to those considering enrollment at the University of Richmond. 
 
 ###Environmental Scan
+
+###History of the Project
+
+###Work Plan
 
 ###Staff
 This project would be led by Bal Artis, who has previous engagement specifically with the Race and Racism at the University of Richmond Project since taking the Digital Memory and the Archive course. They will head the data collection and tidying with their previous work centered around documents pertaining to students of color at the university as well as their expertise in critical race studies. Dr. Nicole Maurantonio and Victoria Charles, as two of the projects pioneers and advisory board members, will offer oversight and a reference for corroboration when any new data is found before it is added to the deep map. Dr. Lauren Tilton brings her command of the digital humanities and experience as part of the Photogrammar project, which this project credits in its environmental scan, to the table. She is an integral asset in properly formulating the networks necessary to achieve the project aims along with all the formatting that is essential to ensuring ease of access and maneuvering through the project. The Office of Admissions is the projects reference for collecting and discussing artifacts detailing outreach efforts by the university. 
