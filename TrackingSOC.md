@@ -39,6 +39,7 @@ The final goal is this project is not necessarily to document the influx of stud
 ###Environmental Scan
 
 ###History of the Project
+The idea for this project spawned from the finalization of the Students of Color exhibit, which is featured in the larger Race and Racism at the University of Richmond Project. While uncovering documents that mention both national and international students of color, I wondered how we could further that discovery rather than simply archiving their acknowledgments. Time became a factor in planning that projects expansions while I was going through the archive’s timeline leading up to integration at the university. Wanting to further make integration seem like a complex transition rather than an immediate shift, this project was created to track the flow of students of color to the university.  
 
 ###Work Plan
 
